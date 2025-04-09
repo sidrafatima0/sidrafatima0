@@ -1,7 +1,6 @@
 # 👩‍💻 Sidra Fatima – Data Science Enthusiast & Developer
 
 **Email**: fatimasidra0786@gmail.com  
-**Phone**: +91 7869250000  
 **LinkedIn**: [linkedin.com/in/sidra-fatima-5108102a3](http://linkedin.com/in/sidra-fatima-5108102a3)  
 **Live Project**: [Pygp Analyzer - Streamlit App](https://pygpaanalyzer.streamlit.app/)
 
