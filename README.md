@@ -2,7 +2,6 @@
 
 **Email**: fatimasidra0786@gmail.com  
 **LinkedIn**: [linkedin.com/in/sidra-fatima-5108102a3](http://linkedin.com/in/sidra-fatima-5108102a3)  
-**Live Project**: [Pygp Analyzer - Streamlit App](https://pygpaanalyzer.streamlit.app/)
 
 ---
 
